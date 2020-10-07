@@ -1,3 +1,7 @@
+<head>
+  <title>Contacto</title>
+</head>
+
 <?php require_once("header.php"); ?>
 
 <body>
